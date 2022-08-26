@@ -1,0 +1,18 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "source": "pages/Home/index"
+    },
+    {
+      "path": "/second",
+      "source": "pages/Second/index"
+    }
+  ],
+  "window": {
+    "title": "\u200E"
+  },
+  "scripts": [
+    "<script>var _hmt=_hmt||[];(function(){var hm=document.createElement('script');hm.src='https://hm.baidu.com/hm.js?1cc3c9fad7a16428a848f5870a569edf';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(hm,s)})();</script>"
+  ]
+}
